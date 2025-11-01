@@ -1,6 +1,6 @@
 # Chicken_Disease_Classification
 
-Update config.yaml
+Update config.yaml\n
 Update secrets.yaml [Optional]
 Update params.yaml
 Update the entity
